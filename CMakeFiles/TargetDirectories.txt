@@ -1,0 +1,6 @@
+C:/Users/Natsik/Desktop/Netology Homeworks/Homework6.1ST/CMakeFiles/Homework6.1ST.dir
+C:/Users/Natsik/Desktop/Netology Homeworks/Homework6.1ST/CMakeFiles/ALL_BUILD.dir
+C:/Users/Natsik/Desktop/Netology Homeworks/Homework6.1ST/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Natsik/Desktop/Netology Homeworks/Homework6.1ST/Catch2-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Natsik/Desktop/Netology Homeworks/Homework6.1ST/Catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/Natsik/Desktop/Netology Homeworks/Homework6.1ST/Catch2-build/src/CMakeFiles/Catch2WithMain.dir
